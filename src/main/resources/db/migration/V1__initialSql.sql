@@ -1,3 +1,5 @@
+--CREATE SCHEMA IF NOT EXISTS online_store;
+
 create table product_table
 (
     id          serial
